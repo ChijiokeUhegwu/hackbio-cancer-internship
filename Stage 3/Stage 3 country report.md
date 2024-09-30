@@ -9,8 +9,7 @@
 
 **Visualizations:** [hackbio-cancer-internship/Stage 3/Visualizations at main · ChijiokeUhegwu/hackbio-cancer-internship (github.com)](https://github.com/ChijiokeUhegwu/hackbio-cancer-internship/tree/main/Stage%203/Visualizations)
 
- **R scripts:** [hackbio-cancer-internship/Stage 3/Stage-3.R at main · ChijiokeUhegwu/hackbio-cancer-internship (github.com)](https://github.com/ChijiokeUhegwu/hackbio-cancer-internship/blob/main/Stage%203/Stage-3.R)\
-****
+ **R scripts:** [hackbio-cancer-internship/Stage 3/Stage-3.R at main · ChijiokeUhegwu/hackbio-cancer-internship (github.com)](https://github.com/ChijiokeUhegwu/hackbio-cancer-internship/blob/main/Stage%203/Stage-3.R)
 
 **Phase 2 Full Project Report:** [hackbio-cancer-internship/Stage 3/Stage 3 country report.md at main · ChijiokeUhegwu/hackbio-cancer-internship (github.com)](https://github.com/ChijiokeUhegwu/hackbio-cancer-internship/blob/main/Stage%203/Stage%203%20country%20report.md)
 
