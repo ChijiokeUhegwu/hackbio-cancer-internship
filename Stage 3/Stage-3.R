@@ -178,7 +178,7 @@ cholera_country_specific <- fatalities_over_time %>%
 annual_fatalities_country <- cholera_country_specific %>%
   group_by(Year) %>%
   summarise(total_fatalities = sum(Cholera.case.fatality.rate, na.rm = TRUE)) %>%
-  arrange(desc(total_fatalities))  # Sort by year for highest annual fatalities
+  arrange(Year)  # Ensure the years are in ascending order
 
 # Visualization
 # Create a line plot for the annual cholera fatalities in the country
@@ -323,7 +323,7 @@ cholera_country_specific <- cholera_cases %>%
 annual_cases_country <- cholera_country_specific %>%
   group_by(Year) %>%
   summarise(total_cases = sum(Number.of.reported.cases.of.cholera, na.rm = TRUE)) %>%
-  arrange(desc(total_cases))  # Sort by year for highest annual cases
+  arrange(Year)  # Ensure the years are in ascending order
 
 # Visualization
 # Create a line plot for the annual cholera cases in the country
@@ -459,18 +459,19 @@ cholera_deaths_trend_plot
 
 # Rplot5: Highest Annual Cholera deaths for a Specific Country (e.g., "Nigeria")
 # Filter the data for the specific country
-cholera_country_specific <- cholera_country_specific %>%
+cholera_country_death_specific <- cholera_deaths %>%
+  filter(Countries == "Nigeria") %>%  # Ensure we're only working with Nigeria
   mutate(Number.of.reported.deaths.from.cholera = as.numeric(Number.of.reported.deaths.from.cholera))
 
 # Filter out NA values caused by conversion issues
-cholera_country_specific <- cholera_country_specific %>%
+cholera_country_death_specific <- cholera_country_death_specific %>%
   filter(!is.na(Number.of.reported.deaths.from.cholera))
 
 # Summarise by year for that country
-annual_deaths_country <- cholera_country_specific %>%
+annual_deaths_country <- cholera_country_death_specific %>%
   group_by(Year) %>%
   summarise(total_deaths = sum(Number.of.reported.deaths.from.cholera, na.rm = TRUE)) %>%
-  arrange(desc(total_deaths))  # Sort by year for highest annual deaths
+  arrange(Year)  # Ensure the years are in ascending order
 
 # Visualization: Plot the annual cholera deaths for the country
 annual_deaths_plot <- plot_ly(annual_deaths_country, 
@@ -478,13 +479,13 @@ annual_deaths_plot <- plot_ly(annual_deaths_country,
                               y = ~total_deaths, 
                               type = 'scatter', 
                               mode = 'lines+markers',
-                              marker = list(color = 'blue')) %>%  
+                              marker = list(color = 'green')) %>%  
   layout(title = "Annual Cholera Deaths for Nigeria",
          xaxis = list(title = "Year"),
          yaxis = list(title = "Total Reported Deaths"),
          plot_bgcolor = 'white')
-
-# Display the plot
 annual_deaths_plot
+
+
 
 
