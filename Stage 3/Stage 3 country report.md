@@ -9,9 +9,9 @@
 
 **Visualizations:** [hackbio-cancer-internship/Stage 3/Visualizations at main · ChijiokeUhegwu/hackbio-cancer-internship (github.com)](https://github.com/ChijiokeUhegwu/hackbio-cancer-internship/tree/main/Stage%203/Visualizations)
 
- **R scripts:** [hackbio-cancer-internship/Stage 3/Stage-3.R at main · ChijiokeUhegwu/hackbio-cancer-internship (github.com)](https://github.com/ChijiokeUhegwu/hackbio-cancer-internship/blob/main/Stage%203/Stage-3.R)\
+ **R scripts:** [hackbio-cancer-internship/Stage 3/Stage-3.R at main · ChijiokeUhegwu/hackbio-cancer-internship (github.com)](https://github.com/ChijiokeUhegwu/hackbio-cancer-internship/blob/main/Stage%203/Stage-3.R)
 
-**Phase 2 Data analysis Report:** [Data Analysis Report on Cholera Outbreaks since 1949](https://docs.google.com/document/d/1yHMldkxUMRc1UGXkOjrBMyIsQuzj7cUV8s4JtHbj-1w/edit?usp=sharing)
+**Phase 2 Full Project Report:** [hackbio-cancer-internship/Stage 3/Stage 3 full project report.md at main · ChijiokeUhegwu/hackbio-cancer-internship (github.com)](https://github.com/ChijiokeUhegwu/hackbio-cancer-internship/blob/main/Stage%203/Stage%203%20full%20project%20report.md)
 
 
 ### **1.0 Reported Cases of Cholera in Nigeria**
