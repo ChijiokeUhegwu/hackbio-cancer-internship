@@ -1,0 +1,6 @@
+#Tools required for NGS analysis
+fastqc
+fastp
+bwa
+samtools
+bcftools
