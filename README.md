@@ -1,6 +1,6 @@
 <!--StartFragment-->
 
-##**HackBio Genomic Epidemiology Internship 2024**
+## **HackBio Genomic Epidemiology Internship 2024**
 
 Welcome!! This repository contains the tasks, skills and experience I accumulated during the course of the Genomic Epidemiology internship I completed with HackBio in 2024. The internship was designed to give hands-on experience and advance bioinformatics skills through personal or collaborative team projects using real-world data.  
 
