@@ -6,7 +6,6 @@ Welcome!! This repository contains the tasks, skills and experience I accumulate
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeCkXc-LCprXfdXzBpf3ic02I5y99kiVBer48i80KlBqI_4Qegpyb2m0cTOExqZ-R3O9fGUOitMfBra0HNCgcJ9rErKSMqf9tgcxGa_Tra0M-NXGkeb1vKUwsQiijhlKTXbzr1NkT4s48NU6AKgF848P4x4?key=utQItuPyeST3ci2IFzNElvhe)
 
-\
 
 
 ### **About HackBio**
@@ -49,7 +48,7 @@ Link to task: <https://github.com/ChijiokeUhegwu/hackbio-cancer-internship/tree/
 
 ### **Conclusion**
 
-The HackBio Genomic Epidemiology Internship 2024 provided me with a unique opportunity to develop bioinformatics skills by dealing with real-world data related to AMR in cancer and cholera outbreaks. I would say the internship was challenging and intense as I had to quickly pick up on the skills needed to deliver on the projects assigned to me. Through these projects, I gained hands-on experience using techniques and tools in R programming and Bash scripting to analyze complex datasets and build automated workflows. My GitHub and markdown skills also improved during the course of the internship. Shoutout to HackBio for the opportunity given to me to develop core skills needed in bioinformatics research, here is to more wins. 
+The HackBio Genomic Epidemiology Internship 2024 provided me with a unique opportunity to develop bioinformatics skills by dealing with real-world data related to AMR in cancer and cholera outbreaks. I would say the internship was challenging and intense as I had to quickly pick up on the skills needed to deliver on the projects assigned to me. Through these projects, I gained hands-on experience using techniques and tools in R programming and Bash scripting to analyze complex datasets and build automated workflows. My GitHub and markdown skills also improved during the internship. Shoutout to HackBio for the opportunity given to me to develop core skills needed in advancing genomics research, here is to more wins. 
 
 
 
